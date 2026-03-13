@@ -1,122 +1,184 @@
- [
+{
+  "deportistas_colombianos": [
     {
       "nombre": "Mariana Pajón",
       "edad": 34,
+      "sexo": "Femenino",
+      "estatura": 1.58,
+      "peso": 53,
       "deporte": "BMX",
       "ciudad_residencia": "Medellín"
     },
     {
       "nombre": "Luis Díaz",
       "edad": 29,
+      "sexo": "Masculino",
+      "estatura": 1.80,
+      "peso": 73,
       "deporte": "Fútbol",
       "ciudad_residencia": "Barranquilla"
     },
     {
       "nombre": "Egan Bernal",
       "edad": 29,
+      "sexo": "Masculino",
+      "estatura": 1.75,
+      "peso": 60,
       "deporte": "Ciclismo de ruta",
       "ciudad_residencia": "Zipaquirá"
     },
     {
       "nombre": "Caterine Ibargüen",
       "edad": 42,
+      "sexo": "Femenino",
+      "estatura": 1.81,
+      "peso": 70,
       "deporte": "Atletismo",
       "ciudad_residencia": "Apartadó"
     },
     {
       "nombre": "Nairo Quintana",
       "edad": 36,
+      "sexo": "Masculino",
+      "estatura": 1.67,
+      "peso": 59,
       "deporte": "Ciclismo de ruta",
       "ciudad_residencia": "Combita"
     },
     {
       "nombre": "Linda Caicedo",
       "edad": 21,
+      "sexo": "Femenino",
+      "estatura": 1.61,
+      "peso": 53,
       "deporte": "Fútbol",
       "ciudad_residencia": "Cali"
     },
     {
       "nombre": "Anthony Zambrano",
       "edad": 28,
+      "sexo": "Masculino",
+      "estatura": 1.83,
+      "peso": 74,
       "deporte": "Atletismo",
       "ciudad_residencia": "Barranquilla"
     },
     {
       "nombre": "Rigoberto Urán",
       "edad": 39,
+      "sexo": "Masculino",
+      "estatura": 1.73,
+      "peso": 63,
       "deporte": "Ciclismo de ruta",
       "ciudad_residencia": "Medellín"
     },
     {
       "nombre": "Yuberjen Martínez",
       "edad": 34,
+      "sexo": "Masculino",
+      "estatura": 1.65,
+      "peso": 52,
       "deporte": "Boxeo",
       "ciudad_residencia": "Turbo"
     },
     {
       "nombre": "Ingrit Valencia",
       "edad": 37,
+      "sexo": "Femenino",
+      "estatura": 1.61,
+      "peso": 51,
       "deporte": "Boxeo",
       "ciudad_residencia": "Ibagué"
     },
     {
       "nombre": "Juan Sebastián Cabal",
       "edad": 39,
+      "sexo": "Masculino",
+      "estatura": 1.91,
+      "peso": 92,
       "deporte": "Tenis",
       "ciudad_residencia": "Cali"
     },
     {
       "nombre": "Robert Farah",
       "edad": 39,
+      "sexo": "Masculino",
+      "estatura": 1.93,
+      "peso": 92,
       "deporte": "Tenis",
       "ciudad_residencia": "Cali"
     },
     {
       "nombre": "María Camila Osorio",
       "edad": 24,
+      "sexo": "Femenino",
+      "estatura": 1.68,
+      "peso": 62,
       "deporte": "Tenis",
       "ciudad_residencia": "Cúcuta"
     },
     {
       "nombre": "Daniel Felipe Martínez",
       "edad": 29,
+      "sexo": "Masculino",
+      "estatura": 1.72,
+      "peso": 63,
       "deporte": "Ciclismo de ruta",
       "ciudad_residencia": "Soacha"
     },
     {
       "nombre": "Sara López",
       "edad": 31,
+      "sexo": "Femenino",
+      "estatura": 1.62,
+      "peso": 65,
       "deporte": "Tiro con arco",
       "ciudad_residencia": "Pereira"
     },
     {
       "nombre": "Tatiana Calderón",
       "edad": 32,
+      "sexo": "Femenino",
+      "estatura": 1.63,
+      "peso": 58,
       "deporte": "Automovilismo",
       "ciudad_residencia": "Bogotá"
     },
     {
       "nombre": "Carlos Alberto Ramírez",
       "edad": 31,
+      "sexo": "Masculino",
+      "estatura": 1.70,
+      "peso": 75,
       "deporte": "BMX",
       "ciudad_residencia": "Medellín"
     },
     {
       "nombre": "Jossimar Calvo",
       "edad": 31,
+      "sexo": "Masculino",
+      "estatura": 1.60,
+      "peso": 55,
       "deporte": "Gimnasia artística",
       "ciudad_residencia": "Cúcuta"
     },
     {
       "nombre": "Sandra Arenas",
       "edad": 32,
+      "sexo": "Femenino",
+      "estatura": 1.62,
+      "peso": 50,
       "deporte": "Atletismo",
       "ciudad_residencia": "Pereira"
     },
     {
-      "nombre": "Ramón Jesurún Jr (Simulado)",
-      "edad": 25,
-      "deporte": "Natación",
-      "ciudad_residencia": "Barranquilla"
+      "nombre": "Ángel Barajas",
+      "edad": 19,
+      "sexo": "Masculino",
+      "estatura": 1.68,
+      "peso": 58,
+      "deporte": "Gimnasia artística",
+      "ciudad_residencia": "Cúcuta"
     }
   ]
+}
