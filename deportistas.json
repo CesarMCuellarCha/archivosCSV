@@ -1,5 +1,4 @@
-{
-  "deportistas_colombianos": [
+[
     { "nombre": "Mariana Pajón", "edad": 34, "sexo": "Femenino", "estatura": 1.58, "peso": 53, "deporte": "BMX", "ciudad_residencia": "Medellín" },
     { "nombre": "Luis Díaz", "edad": 29, "sexo": "Masculino", "estatura": 1.80, "peso": 73, "deporte": "Fútbol", "ciudad_residencia": "Barranquilla" },
     { "nombre": "Egan Bernal", "edad": 29, "sexo": "Masculino", "estatura": 1.75, "peso": 60, "deporte": "Ciclismo de ruta", "ciudad_residencia": "Zipaquirá" },
@@ -212,4 +211,3 @@
     { "nombre": "Mauro Manotas", "edad": 30, "sexo": "Masculino", "estatura": 1.79, "peso": 76, "deporte": "Fútbol", "ciudad_residencia": "Sabanalarga" },
     { "nombre": "Harold Preciado", "edad": 31, "sexo": "Masculino", "estatura": 1.82, "peso": 78, "deporte": "Fútbol", "ciudad_residencia": "Tumaco" }
   ]
-}
