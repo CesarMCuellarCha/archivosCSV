@@ -3,7 +3,7 @@
     { "nombre": "Luis Díaz", "edad": 29, "sexo": "Masculino", "estatura": 1.80, "peso": 73, "deporte": "Fútbol", "ciudad_residencia": "Barranquilla" },
     { "nombre": "Egan Bernal", "edad": 29, "sexo": "Masculino", "estatura": 1.75, "peso": 60, "deporte": "Ciclismo de ruta", "ciudad_residencia": "Zipaquirá" },
     { "nombre": "Caterine Ibargüen", "edad": 42, "sexo": "Femenino", "estatura": 1.81, "peso": 70, "deporte": "Atletismo", "ciudad_residencia": "Apartadó" },
-    { "nombre": "Linda Caicedo", "edad": 21, "sexo": "Femenino", "estatura": 1.61, "peso": 53, "deporte": "Cali" },
+    { "nombre": "Linda Caicedo", "edad": 21, "sexo": "Femenino", "estatura": 1.61, "peso": 53, "deporte": "Fútbol", "ciudad_residencia": "Cali" },
     { "nombre": "James Rodríguez", "edad": 34, "sexo": "Masculino", "estatura": 1.80, "peso": 75, "deporte": "Fútbol", "ciudad_residencia": "Cúcuta" },
     { "nombre": "Yulimar Rojas (Invitada)", "edad": 30, "sexo": "Femenino", "estatura": 1.92, "peso": 72, "deporte": "Atletismo", "ciudad_residencia": "Cali" },
     { "nombre": "David Ospina", "edad": 37, "sexo": "Masculino", "estatura": 1.83, "peso": 80, "deporte": "Fútbol", "ciudad_residencia": "Medellín" },
